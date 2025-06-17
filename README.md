@@ -38,5 +38,9 @@
 
 #### Languages and Tools:
 
-[![GitHub Snake Light](https://github.com/peleiwnl/github-profile-readme-snakes/blob/output/github-snake.svg)](https://github.com/peleiwnl/github-profile-readme-snakes)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake.svg">
+</picture>
 
