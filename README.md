@@ -1,4 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=peleiwnl)
+
 ## Hi there 👋, I'm Pele.
+
+### A software developer from the South of England
 
 - 🎓 Just graduated from a Software Engineering degree at Swansea University with First Class Honours
 - 💡 Currently seeking a Master's degree or employment in Full-Stack Development
