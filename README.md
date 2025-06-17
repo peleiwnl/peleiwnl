@@ -35,9 +35,6 @@
 
 ![Pele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
 
-
-#### Connect with me:
-
 #### Languages and Tools:
 
 <p>
