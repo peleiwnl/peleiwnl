@@ -1,15 +1,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=peleiwnl)
 
 <p align="center">
-![Coding Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrazNrN3p0MXpvdW93Z2RidTk5ZnRlbHEwbWc3a3d6cndqamw5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrazNrN3p0MXpvdW93Z2RidTk5ZnRlbHEwbWc3a3d6cndqamw5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding Gif" width="300"/>
 </p>
 
 <p align="center">
-<h2>>Hi there 👋, I'm Pele. </h2>
+  <h2>Hi there 👋, I'm Pele.</h2>
 </p>
 
 <p align="center">
-<h3></h3> A software developer from the South of England </h3>
+  <h3>A software developer from the South of England</h3>
 </p>
 
 - 🎓 Just graduated from a Software Engineering degree at Swansea University with First Class Honours
