@@ -27,7 +27,7 @@
 
 - 💻 Mostly proficient in Java, but also well-versed in Python, C++, PHP and other similar languages
 
-- 🤔 Currently learning basic game development with Luau
+- 🤔 Currently learning basic game development with Lua
 
 - 👨‍💻 My portfolio is available at peleiwnl.co.uk
 
