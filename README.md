@@ -41,7 +41,7 @@
 ### 🧰 Languages and Tools
 
 
-<p align="center">
+<p>
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -84,7 +84,7 @@
   </a>
   <!-- Paint.NET (no Devicon, using logo image) -->
   <a href="https://www.getpaint.net/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Paint.NET_4.0_icon.png/600px-Paint.NET_4.0_icon.png" alt="Paint.NET" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/paint.net.svg" alt="Paint.NET" width="40" height="40"/>
   </a>
   <!-- Haskell -->
   <a href="https://www.haskell.org/" target="_blank">
