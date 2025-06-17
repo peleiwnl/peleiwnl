@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=peleiwnl)
 
+![Coding Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrazNrN3p0MXpvdW93Z2RidTk5ZnRlbHEwbWc3a3d6cndqamw5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
 ## Hi there 👋, I'm Pele.
 
 ### A software developer from the South of England
