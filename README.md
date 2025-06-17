@@ -12,7 +12,6 @@
   <a href="https://discord.com/users/123456789012345678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <!-- Add more icons here -->
 </p>
 
 
@@ -34,12 +33,14 @@
 
 - 📫 Reach me at peleiwnl@gmail.com
 
+![Pele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peleiwnl&layout=compact&theme=transparent)
+
+
 #### Connect with me:
 
 #### Languages and Tools:
-
-### 🧰 Languages and Tools
-
 
 <p>
   <!-- Java -->
@@ -81,10 +82,6 @@
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <!-- Paint.NET (no Devicon, using logo image) -->
-  <a href="https://www.getpaint.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/paint.net.svg" alt="Paint.NET" width="40" height="40"/>
   </a>
   <!-- Haskell -->
   <a href="https://www.haskell.org/" target="_blank">
