@@ -29,7 +29,7 @@
 
 - 🤔 Currently learning basic game development with Lua
 
-- 👨‍💻 My portfolio is available at peleiwnl.co.uk
+- 👨‍💻 My portfolio is available ![here](https://peleiwnl.github.io/)
 
 - 📫 Reach me at peleiwnl@gmail.com
 
