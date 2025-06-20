@@ -33,9 +33,16 @@
 
 - 📫 Reach me at peleiwnl@gmail.com
 
-![Pele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peleiwnl&layout=compact&langs_count=10&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent" alt="Pele's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peleiwnl&layout=compact&langs_count=10&theme=default" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 #### Languages and Tools:
 
