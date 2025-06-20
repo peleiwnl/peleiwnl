@@ -35,7 +35,7 @@
 
 ![Pele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peleiwnl&layout=compact&langs_count=10&theme=default)
 
 #### Languages and Tools:
 
