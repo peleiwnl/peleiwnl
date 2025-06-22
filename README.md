@@ -50,15 +50,6 @@
 #### Connect with me:
 
 <p>
-
-  <a href="mailto:peleiwnl@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-  </a>
-
   <a href="https://stackoverflow.com/users/30866100/peleiwnl" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
