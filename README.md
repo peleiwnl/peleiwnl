@@ -46,80 +46,67 @@
   </table>
 </div>
 
-#### Connect with me:
-#### Connect with me:
-
-<p>
-  <a href="https://stackoverflow.com/users/30866100/peleiwnl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
-  </a>
-
-  <a href="https://dev.to/peleiwnl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="Dev.to" width="40" height="40"/>
-  </a>
-
-  <a href="https://codepen.io/peleiwnl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
-  </a>
-
-  <a href="https://codesandbox.io/u/peleiwnl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="CodeSandbox" width="40" height="40"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="stryzhh" height="30" width="40" /></a>
+<a href="https://dev.to/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stryzhh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30866100/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16427935" height="30" width="40" /></a>
+<a href="https://codesandbox.com/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stryzhh" height="30" width="40" /></a>
 </p>
 
 
-#### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <!-- Java -->
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <!-- Python -->
+
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <!-- C++ -->
+
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <!-- PHP -->
+
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <!-- HTML -->
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- CSS -->
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <!-- Laravel -->
+
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   </a>
-  <!-- SQL -->
+
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
-  <!-- MySQL -->
+
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- Firebase -->
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <!-- Haskell -->
+
   <a href="https://www.haskell.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
   </a>
-  <!-- Prolog (no official icon, using text fallback or generic code icon) -->
+
   <a href="https://en.wikipedia.org/wiki/Prolog" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="Prolog" width="40" height="40"/>
   </a>
-  <!-- Lua -->
+
   <a href="https://www.lua.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   </a>
