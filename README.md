@@ -47,6 +47,8 @@
 </div>
 
 #### Connect with me:
+#### Connect with me:
+
 <p>
 
   <a href="mailto:peleiwnl@gmail.com" target="_blank">
@@ -64,11 +66,11 @@
   <a href="https://dev.to/peleiwnl" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="Dev.to" width="40" height="40"/>
   </a>
- 
+
   <a href="https://codepen.io/peleiwnl" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
   </a>
- 
+
   <a href="https://codesandbox.io/u/peleiwnl" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="CodeSandbox" width="40" height="40"/>
   </a>
