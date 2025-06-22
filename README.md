@@ -51,7 +51,7 @@
 <a href="https://codepen.io/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="stryzhh" height="30" width="40" /></a>
 <a href="https://dev.to/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stryzhh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30866100/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16427935" height="30" width="40" /></a>
-<a href="https://codesandbox.com/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stryzhh" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/peleiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stryzhh" height="30" width="40" /></a>
 </p>
 
 
