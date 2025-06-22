@@ -47,21 +47,30 @@
 </div>
 
 #### Connect with me:
-<p align="center">
+<p>
+
   <a href="mailto:peleiwnl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
+
+  <a href="https://discord.com/users/123456789012345678" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  </a>
+
   <a href="https://stackoverflow.com/users/30866100/peleiwnl" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
+
   <a href="https://dev.to/peleiwnl" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="Dev.to" width="40" height="40"/>
   </a>
+ 
   <a href="https://codepen.io/peleiwnl" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
   </a>
+ 
   <a href="https://codesandbox.io/u/peleiwnl" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="CodeSandbox" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="CodeSandbox" width="40" height="40"/>
   </a>
 </p>
 
